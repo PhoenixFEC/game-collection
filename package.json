@@ -1,0 +1,7 @@
+{
+  "name": "game-collection",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  }
+}
